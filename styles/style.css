@@ -1,0 +1,28 @@
+.welcome_logo {
+    margin-top: 15%;
+    display: flex; 
+    flex-direction: column;
+    width: 50%;
+    height: 100vh;
+    padding-left: 20%;
+}
+
+.logo {
+    width: 100%;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.logo img{
+    width: 45%;
+    margin: -28px;
+    
+}
+
+.welcome_logo h1 {
+    font-size: 28px;
+    line-height: 32px;
+    width: 65%;
+    font-weight:normal;
+}
+
